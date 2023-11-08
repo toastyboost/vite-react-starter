@@ -2,6 +2,7 @@
 
 ## features
 
+- Typescript
 - React Router v6
 
 ## architecture
@@ -12,3 +13,7 @@
 ## project
 
 - prettier
+
+## init
+
+`touch .env.development .env.production`
